@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8665A84328A4B4C40027A39A /* MemoryGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8665A84228A4B4C40027A39A /* MemoryGame.swift */; };
+		8665A84528A4B9CC0027A39A /* BirbMemoryGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8665A84428A4B9CC0027A39A /* BirbMemoryGame.swift */; };
 		86D08C32288A19A500956F5A /* MemorizeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86D08C31288A19A500956F5A /* MemorizeApp.swift */; };
 		86D08C34288A19A500956F5A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86D08C33288A19A500956F5A /* ContentView.swift */; };
 		86D08C36288A19AC00956F5A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 86D08C35288A19AC00956F5A /* Assets.xcassets */; };
@@ -14,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		8665A84228A4B4C40027A39A /* MemoryGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoryGame.swift; sourceTree = "<group>"; };
+		8665A84428A4B9CC0027A39A /* BirbMemoryGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirbMemoryGame.swift; sourceTree = "<group>"; };
 		86D08C2E288A19A500956F5A /* Memorize.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Memorize.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		86D08C31288A19A500956F5A /* MemorizeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemorizeApp.swift; sourceTree = "<group>"; };
 		86D08C33288A19A500956F5A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -52,6 +56,8 @@
 			isa = PBXGroup;
 			children = (
 				86D08C31288A19A500956F5A /* MemorizeApp.swift */,
+				8665A84228A4B4C40027A39A /* MemoryGame.swift */,
+				8665A84428A4B9CC0027A39A /* BirbMemoryGame.swift */,
 				86D08C33288A19A500956F5A /* ContentView.swift */,
 				86D08C35288A19AC00956F5A /* Assets.xcassets */,
 				86D08C37288A19AC00956F5A /* Preview Content */,
@@ -137,6 +143,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8665A84328A4B4C40027A39A /* MemoryGame.swift in Sources */,
+				8665A84528A4B9CC0027A39A /* BirbMemoryGame.swift in Sources */,
 				86D08C34288A19A500956F5A /* ContentView.swift in Sources */,
 				86D08C32288A19A500956F5A /* MemorizeApp.swift in Sources */,
 			);
